@@ -30,8 +30,8 @@ Projeto desenvolvido para a atividade avaliativa de Git e GitHub.
 
 ## Repositório
 
-Adicionar aqui o link do repositório GitHub.
+https://github.com/AleFeroiz/atividade12-avaliativa
 
 ## Site publicado
 
-Adicionar aqui o link do site hospedado.
+https://aleferoiz.github.io/atividade12-avaliativa/
